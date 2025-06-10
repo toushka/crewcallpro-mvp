@@ -11,8 +11,7 @@ This is a no-code MVP prototype built using [Lovable.dev](https://www.lovable.de
 
 ## 🔗 Live Prototype
 
-👉 [View the live MVP on Lovable](https://your-lovable-url.lovable.dev)  
-_(Replace this with your actual URL)_
+👉 [View the live MVP on Lovable](https://crewcallpro-mvp.lovable.app)
 
 ---
 
