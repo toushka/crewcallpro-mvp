@@ -56,3 +56,29 @@ Screenshots of the MVP in progress can be found in the `/assets` folder.
 This is an active MVP under development as part of the AI App Challenge.  
 We're testing with early users and building fast!
 
+## 🔍 Screenshots
+
+### 🔐 Main Sign In
+![Main Sign In](assets/signin-main.png)
+
+### 👤 Freelancer Login
+![Freelancer Login](assets/freelancer-login.png)
+
+### 👩‍🎤 Freelancer Dashboard
+![Freelancer Dashboard](assets/freelancer-dashboard.png)
+
+### 🧑‍💼 Company Login
+![Company Login](assets/company-login.png)
+
+### 🏢 Company Dashboard
+![Company Dashboard](assets/company-dashboard.png)
+
+### ✍️ Job Post Form
+![Job Post Form](assets/job-post-form.png)
+
+### ✅ Job Posted (Version A)
+![Job Posted](assets/job-posted.png)
+
+### ✅ Job Posted (Alternate View)
+![Job Posted Alt](assets/job-posted-alt.png)
+
